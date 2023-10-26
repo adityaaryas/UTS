@@ -1,0 +1,86 @@
+#Aditya {
+  color: Black;
+}
+nav {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    height: 80px;
+    padding-left: 125px;
+    padding-right: 125px;
+    justify-content: space-between;
+    font-size: 30px;
+  }
+
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 23px;
+    color: black;
+    font-weight: 450;
+}
+
+  .paid-kontainer{
+    background-color: white;
+    position: relative;
+  }
+
+  img{
+    height: 720px;
+    width: 100%;
+  }
+
+  .teks-overlay{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    color: white;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .tmbl-resume {
+    border-radius: 20px;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    width: 75px;
+    border: solid 3px black;
+    margin-top: 14px;
+    cursor: pointer;
+  }
+
+  h1{
+    color: gray;
+    font-size: 40px;
+    margin-left: 40px;
+  }
+
+  p{
+    margin-left: 70px;
+  }
+
+  .label-edition{
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 5px;
+  }
+
+  .less-info{
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    cursor: Pointer;
+    height: 30px;
+    width: 75px;
+    top: 1000px;
+    left: 1600px;
+  }
+
+  

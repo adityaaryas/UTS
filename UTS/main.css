@@ -1,4 +1,4 @@
-#Aditya {
+\#Aditya {
   color: Black;
 }
 nav {
@@ -155,4 +155,29 @@ nav {
     font-size: 40px;
     margin-left: 40px;
     padding-top: 50px;
+  }
+
+  .contact{
+    color: gray;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 40px;
+    padding-top: 20px;
+  }
+
+  .pad-kontainer1{
+    background-color: white;
+    display: flex;
+    width: 950px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgba(78, 91, 104, 0,2);
+    margin-left: 70px;
+    margin-top: 50px;
+  }
+
+  .area-konten{
+    display: flex;
+    width: 475px;
+    padding-top: 200px;
+    padding-right: 30px;
   }

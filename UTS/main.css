@@ -32,7 +32,7 @@ nav {
 
   img{
     height: 720px;
-    width: 100%;
+    width: 90%;
   }
 
   .teks-overlay{
@@ -79,8 +79,32 @@ nav {
     cursor: Pointer;
     height: 30px;
     width: 75px;
-    top: 1000px;
-    left: 1600px;
+    top: 980px;
+    left: 1250px;
+  }
+
+  .less-info1{
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    cursor: Pointer;
+    height: 30px;
+    width: 75px;
+    top: 1120px;
+    left: 1250px;
+  }
+
+  .less-info2{
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    cursor: Pointer;
+    height: 30px;
+    width: 75px;
+    top: 1235px;
+    left: 1250px;
   }
 
   
